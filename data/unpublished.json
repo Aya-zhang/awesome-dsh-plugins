@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-23",
+  "checked": "2026-10-24",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 892,
+  "count": 891,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -2584,12 +2584,6 @@
       "npm": "dsh-llm-oauth",
       "why": "no such package",
       "since": "2026-08-21"
-    },
-    {
-      "repo": "dmsobtl/dsh-llm-vision-router",
-      "npm": "dsh-llm-vision-router",
-      "why": "published by nobody — the package states no repository and the repo does not claim the name",
-      "since": "2026-10-23"
     },
     {
       "repo": "zoahdev/dsh-llms-forge",
