@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-24",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 891,
+  "count": 895,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -1884,6 +1884,12 @@
       "since": "2026-09-29"
     },
     {
+      "repo": "ferrisching/dsh-editor-link",
+      "npm": "dsh-editor-link",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-10-24"
+    },
+    {
       "repo": "LKRCharon/dsh-egress-guard",
       "npm": "dsh-egress-guard",
       "why": "2 listed repos declare this name and the package states no repository",
@@ -2897,8 +2903,26 @@
     {
       "repo": "YiYan129600/dsh-mobile-access",
       "npm": "dsh-mobile-access",
-      "why": "no such package",
-      "since": "2026-08-21"
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
+      "repo": "Mandarin715/dsh-mobile-access-plugin",
+      "npm": "dsh-mobile-access",
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
+      "repo": "huanlanmie/dsh-mobile-access",
+      "npm": "dsh-mobile-access",
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
+      "repo": "MacilyDots/dsh-mobile-access",
+      "npm": "dsh-mobile-access",
+      "why": "4 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
     },
     {
       "repo": "Bernardxu123/dsh-mobile-gate",
@@ -3617,46 +3641,46 @@
       "since": "2026-10-05"
     },
     {
-      "repo": "brzvsk/dsh-plugins",
-      "npm": "dsh-plugins",
-      "why": "7 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "henlii/dsh-plugins",
-      "npm": "dsh-plugins",
-      "why": "7 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "jcc1997/dsh-plugins",
-      "npm": "dsh-plugins",
-      "why": "7 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
-      "repo": "onchainyaotoshi/dsh-plugins",
-      "npm": "dsh-plugins",
-      "why": "7 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
-    },
-    {
       "repo": "PlusQi/dsh-plugins",
       "npm": "dsh-plugins",
       "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
     },
     {
+      "repo": "brzvsk/dsh-plugins",
+      "npm": "dsh-plugins",
+      "why": "6 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
+      "repo": "henlii/dsh-plugins",
+      "npm": "dsh-plugins",
+      "why": "6 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
+      "repo": "jcc1997/dsh-plugins",
+      "npm": "dsh-plugins",
+      "why": "6 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
+      "repo": "onchainyaotoshi/dsh-plugins",
+      "npm": "dsh-plugins",
+      "why": "6 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
+    },
+    {
       "repo": "xarleyn/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "7 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "6 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
     },
     {
       "repo": "nickhelion/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "7 listed repos declare this name and the package states no repository",
-      "since": "2026-09-29"
+      "why": "6 listed repos declare this name and the package states no repository",
+      "since": "2026-10-24"
     },
     {
       "repo": "Sakana-yuyu/dsh-plugins",
