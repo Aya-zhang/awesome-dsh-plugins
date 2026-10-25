@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 895,
+  "count": 897,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -20,6 +20,12 @@
       "npm": "@agent-hub/dsh-workspace-file-upload",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "ajia1206/dsh-restart",
+      "npm": "@ajia1206/dsh-restart",
+      "why": "published by ajia1206/dsh-plugins",
+      "since": "2026-10-25"
     },
     {
       "repo": "mapan0424/deepseek-harness-insights",
@@ -3260,6 +3266,12 @@
       "npm": "dsh-pdf-translate",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-09-29"
+    },
+    {
+      "repo": "tuoLuoSuan/dsh-peak-badge",
+      "npm": "dsh-peak",
+      "why": "published by tuoluosuan/dsh-peak",
+      "since": "2026-10-25"
     },
     {
       "repo": "eivmosn/dsh-pets",
