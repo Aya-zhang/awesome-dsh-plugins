@@ -4,7 +4,7 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
   "count": 899,
   "packages": [
@@ -3845,12 +3845,6 @@
       "since": "2026-08-21"
     },
     {
-      "repo": "iJetLi/dsh-providers-hub",
-      "npm": "dsh-providers-hub",
-      "why": "published by zhuweiyou/dsh-providers-hub",
-      "since": "2026-10-22"
-    },
-    {
       "repo": "haoliangwu/dsh-pwa",
       "npm": "dsh-pwa",
       "why": "3 listed repos declare this name and the package states no repository",
@@ -3945,6 +3939,13 @@
       "npm": "dsh-reasoning-effort-hdbzq",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "providcc/dsh-remote-control",
+      "path": "packages/plugin",
+      "npm": "dsh-remote-control",
+      "why": "published by dsh-remote/plugin",
+      "since": "2026-10-26"
     },
     {
       "repo": "Yari-tuber/dsh-remote-gateway",
