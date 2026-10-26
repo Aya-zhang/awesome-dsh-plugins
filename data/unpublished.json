@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-26",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 893,
+  "count": 894,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -3650,37 +3650,43 @@
     {
       "repo": "brzvsk/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "6 listed repos declare this name and the package states no repository",
+      "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-10-26"
     },
     {
       "repo": "henlii/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "6 listed repos declare this name and the package states no repository",
+      "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-10-26"
     },
     {
       "repo": "jcc1997/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "6 listed repos declare this name and the package states no repository",
+      "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-10-26"
     },
     {
       "repo": "onchainyaotoshi/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "6 listed repos declare this name and the package states no repository",
+      "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-10-26"
     },
     {
       "repo": "xarleyn/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "6 listed repos declare this name and the package states no repository",
+      "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-10-26"
     },
     {
       "repo": "nickhelion/dsh-plugins",
       "npm": "dsh-plugins",
-      "why": "6 listed repos declare this name and the package states no repository",
+      "why": "7 listed repos declare this name and the package states no repository",
+      "since": "2026-10-26"
+    },
+    {
+      "repo": "isayrhythm/dsh-plugins",
+      "npm": "dsh-plugins",
+      "why": "7 listed repos declare this name and the package states no repository",
       "since": "2026-10-26"
     },
     {
